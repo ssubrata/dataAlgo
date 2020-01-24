@@ -1,0 +1,11 @@
+D:\Github\dataAlgo\bin\Debug\netcoreapp3.0\dataAlgo.exe
+D:\Github\dataAlgo\bin\Debug\netcoreapp3.0\dataAlgo.deps.json
+D:\Github\dataAlgo\bin\Debug\netcoreapp3.0\dataAlgo.runtimeconfig.json
+D:\Github\dataAlgo\bin\Debug\netcoreapp3.0\dataAlgo.runtimeconfig.dev.json
+D:\Github\dataAlgo\bin\Debug\netcoreapp3.0\dataAlgo.dll
+D:\Github\dataAlgo\bin\Debug\netcoreapp3.0\dataAlgo.pdb
+D:\Github\dataAlgo\obj\Debug\netcoreapp3.0\dataAlgo.csprojAssemblyReference.cache
+D:\Github\dataAlgo\obj\Debug\netcoreapp3.0\dataAlgo.AssemblyInfoInputs.cache
+D:\Github\dataAlgo\obj\Debug\netcoreapp3.0\dataAlgo.AssemblyInfo.cs
+D:\Github\dataAlgo\obj\Debug\netcoreapp3.0\dataAlgo.dll
+D:\Github\dataAlgo\obj\Debug\netcoreapp3.0\dataAlgo.pdb
